@@ -19,9 +19,46 @@ Project Description           :  My Recipe website is cost free and healthbot fe
 
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
-Static Web App URL : 
+Static Web App URL : https://gray-grass-0390a7600.2.azurestaticapps.net
 
-Azure Health Bot URL : 
+Azure Health Bot URL : https://centralindia.healthbot.microsoft.com/account/project-bf3iefm
 
 
-## MY WEBSITE LINK IS : 
+## MY WEBSITE LINK IS : https://gray-grass-0390a7600.2.azurestaticapps.net
+## SCREENSHORTS-
+
+
+
+
+## HOME-
+
+
+
+
+
+## ABOUT-
+
+
+
+
+## MENU-
+
+
+
+
+
+
+## GALLERY-
+
+
+
+
+
+## CONTACTS-
+
+
+
+
+
+
+## AZURE SERVICES USED-
